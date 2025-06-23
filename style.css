@@ -1,6 +1,17 @@
+/* Logo Styles */
+.logo-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  height: 50px;
+  width: auto;
+}
+
 /* Discord Invite Widget Styles */
 .discord-invite-widget {
-  background: #5865f2;
+  background: #e63027;
   border-radius: 8px;
   padding: 24px;
   max-width: 400px;
@@ -143,6 +154,7 @@
 
 .discord-invite-button:hover {
   background: rgba(255, 255, 255, 0.3);
+  color: white;
 }
 
 .loading {
@@ -155,7 +167,7 @@
 .error {
   text-align: center;
   padding: 40px;
-  color: #ed4245;
+  color: white;
   font-size: 16px;
 }
 
