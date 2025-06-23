@@ -77,10 +77,6 @@ class DiscordWidget {
           <span class="stat-number">${totalMembers}</span>
           <div class="stat-label">Members</div>
         </div>
-        <div class="stat-item">
-          <span class="stat-number">${data.channels.length}</span>
-          <div class="stat-label">Channels</div>
-        </div>
       </div>
 
       <div class="discord-members">
